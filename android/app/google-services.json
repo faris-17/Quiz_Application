@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "42448946132",
+    "project_id": "quiz-153fe",
+    "storage_bucket": "quiz-153fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42448946132:android:78c55d2446d085b5fd8c41",
+        "android_client_info": {
+          "package_name": "com.sumit401.champquizz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-iIHnriR-w3tVBC6lorEigk_xbPyeXRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

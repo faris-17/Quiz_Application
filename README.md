@@ -46,7 +46,6 @@ Project has two Sections Student and Faculty :
 ![Screenshot 2024-06-25 165652](https://github.com/user-attachments/assets/6ea622f3-9d62-470f-a0fc-ec770af41a2a)
 ![Screenshot 2024-06-25 165956](https://github.com/user-attachments/assets/2b556932-0569-4a38-8cdd-937c8d46a883)
 ![Screenshot 2024-06-25 173409](https://github.com/user-attachments/assets/c6f2cd71-4c52-4da5-acc4-c536b7a113b7)
-![Screenshot 2024-06-25 173608](https://github.com/user-attachments/assets/dabd9de7-a082-4a70-b21b-5f45e0c313ef)
-![Screenshot 2024-06-25 173624](https://github.com/user-attachments/assets/c6e011c2-26a5-4c21-9b17-5b986f5070eb)
+
 ![Screenshot 2024-06-25 000416](https://github.com/user-attachments/assets/bd045cdd-3ee4-45ab-aba9-c42871641529)
-![Screenshot 2024-06-25 000459](https://github.com/user-attachments/assets/ff041d67-cf2d-410a-98c5-ba36f9e3688b)
+

@@ -27,7 +27,7 @@ Project has two Sections Student and Faculty :
 - View Results: Students view their score history, while faculty see a summary of student performance.
 
 ## Screenshots:
-![Screenshot 2024-06-25 000018](https://github.com/user-attachments/assets/8772ded7-21f3-466a-a944-b27bd5ec9cb2)
+
 ![Screenshot 2024-06-25 000035](https://github.com/user-attachments/assets/71341cac-d0ce-4128-a118-ebd3295c532a)
 ![Screenshot 2024-06-25 000049](https://github.com/user-attachments/assets/685d2dfd-9aca-4645-9fd2-af6008c98ec7)
 ![Screenshot 2024-06-25 000109](https://github.com/user-attachments/assets/04fa872c-86a1-460c-86ca-132ae3c7704a)
@@ -44,8 +44,4 @@ Project has two Sections Student and Faculty :
 ![Screenshot 2024-06-25 000426](https://github.com/user-attachments/assets/26102359-c179-4842-a11e-16b5b6955918)
 ![Screenshot 2024-06-25 165416](https://github.com/user-attachments/assets/2ed68bb3-4f01-467b-a78e-3f5fe4a8686c)
 ![Screenshot 2024-06-25 165652](https://github.com/user-attachments/assets/6ea622f3-9d62-470f-a0fc-ec770af41a2a)
-![Screenshot 2024-06-25 165956](https://github.com/user-attachments/assets/2b556932-0569-4a38-8cdd-937c8d46a883)
-![Screenshot 2024-06-25 173409](https://github.com/user-attachments/assets/c6f2cd71-4c52-4da5-acc4-c536b7a113b7)
-
-![Screenshot 2024-06-25 000416](https://github.com/user-attachments/assets/bd045cdd-3ee4-45ab-aba9-c42871641529)
 

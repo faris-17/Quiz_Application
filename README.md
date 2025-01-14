@@ -1,4 +1,4 @@
-# Quiz Application
+# QuizBridge
 This is a simple quiz application built using Flutter for students and faculty members. It allows students to take quizzes created by faculty members and view their scores. Faculty can create, manage, and assess quizzes.
 
 ## Technology Used:
